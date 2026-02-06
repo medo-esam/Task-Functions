@@ -15,7 +15,8 @@ String greet(String name){
 
 
 void main() {
-  print(greet('abdo'));
+  print(greet('medo'));
   print(greet('ahmed'));
   print(greet('ali'));
+
 }
