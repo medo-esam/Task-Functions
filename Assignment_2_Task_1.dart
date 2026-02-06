@@ -4,7 +4,8 @@ void describePerson
 }
 void main() {
   describePerson(name: 'Ali', age: 30, occupation: 'Engineer');
-  describePerson(name: 'Mohmmed', occupation: 'Developer');
-  describePerson(name: 'Omer', age: 25);
-  describePerson(name: 'Abdo');
+  describePerson(name: 'ahmed', occupation: 'Developer');
+  describePerson(name: 'esam', age: 25);
+  describePerson(name: 'medo');
+
 }
