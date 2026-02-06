@@ -3,5 +3,6 @@ void printGreeting(String name) {
 }
 void main() {
   printGreeting('Ahmed');
-  printGreeting('Abdo');
+  printGreeting('medo');
+
 }
